@@ -6,7 +6,6 @@ arushiag22@gmail.com | arushia1@umbc.edu | https://github.com/ArushiAg22
 
 ### ***Summary***
 ---
-
 Data Scientist adept at collecting, cleaning, analyzing, and interpreting large datasets, developing new forecasting models, and performing data management tasks. Possess extensive analytical skills, strong attention to detail, and a significant ability to work in team environments.
 
 
@@ -56,17 +55,16 @@ Data Scientist adept at collecting, cleaning, analyzing, and interpreting large 
 
 ### ***Academic Projects***
 ---
-
 - Real Estate Price Prediction: Cleaned the dataset, filled in missing values, trained the model using various regression and classification algorithms, Stacking, and found the problem and solution as the final result. Tools: Python, Jupyter Notebook [Github Link](https://github.com/ArushiAg22/Machine-Learning-Projects/tree/main/Real%20Estate%20Housing%20Prices%20Prediction)
 - Insurance Price Prediction: Created a web app for calculating insurance price costs depending on various variables. Once the model is trained, the user can input the values and get the insurance cost predicted. Tools: Python, Flask, Streamlit [Github Link](https://github.com/ArushiAg22/Data-Driven-Web-Apps/tree/main/Insurance%20Cost%20Prediction%20App)
 - EDA on Austin Animal Shelter dataset: Cleaned the dataset and did Exploratory Data Analysis on the incoming animals and outgoing animals to get a better understanding of their health conditions and reasons for being in the shelter. Tools: Python, Jupyter Notebook [Github Link](https://github.com/ArushiAg22/Exploratory-Data-Analysis-EDA-Projects/tree/main/EDA%20on%20Austin%20TX%20Animal%20Center)
-- Smart Travel System: This was part of Wipro Internal Training. Its aim was to display all the available routes between source and destination cities sorted based on optimal routes. Tools: C programming, SVN.
+- Employee Attrition Prediction Model: Created an interactive app where we can see the data, select 1 or 2 attributes to display a graph(plot), train the model and create pie plots to find number of employees under a specific value set by the user. Tools: Python, IPyWidgets [Github Link](https://github.com/ArushiAg22/Data-Driven-Web-Apps/tree/main/Employee%20Attrition%20Prediction%20Model)
+- EDA on Hulu Shows: Cleaned the dataset and did Exploratory Data Analysis on Top 1000 Hulu Shows. This analysis can be helpful in deciding whether one should take the Hulu subscription or not based on their preference. Tools: Python, Jupyter Notebook [Github Link](https://github.com/ArushiAg22/Exploratory-Data-Analysis-EDA-Projects/tree/main/Exploratory%20Data%20Analysis%20on%20Hulu%20Shows)
 - Content-Based Image Retrieval: Content-Based Image Retrieval is a project which uses Java language at the Front end. It is used for searching images based on visual features such as color, texture, and shape. Tools: Java
 
 
 ### ***Technical Skills***
 ---
-
 **Core Competencies**         : Python, Selenium, Pytest, Flask, Streamlit, C++, C Programming, SQL, PERL
 
 **Python Packages**           : Scikit-learn, PyTorch, Tensorflow, Matplotlib, Seaborn, Pandas, NumPy, Plotly, IPyWidgets
@@ -86,6 +84,5 @@ Data Scientist adept at collecting, cleaning, analyzing, and interpreting large 
 
 ### ***Social Activities***
 ---
-
 - Taught underprivileged children at Nai Disha foundation (NGO).
 - Organized various Social Awareness Programs during Undergrad program.
